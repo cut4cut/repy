@@ -1,0 +1,33 @@
+{
+  "ID": {
+    "$": "TAX_EX"
+  },
+  "Prepared": {
+    "$": "2019-07-05T08:00:33+08:00"
+  },
+  "Sender": {
+    "$": "false",
+    "@": {
+      "id": "FTS"
+    }
+  },
+  "Structre": {
+    "@": {
+      "dimensionAtObservation": "TAX",
+      "explicitMeasures": "true",
+      "structureID": "STR1"
+    },
+    "common:Structure": {
+      "@": {},
+      "~:Ref": {
+        "@": {
+          "agencyID": "TAT",
+          "value": "UEB"
+        }
+      }
+    }
+  },
+  "Test": {
+    "$": "true"
+  }
+}

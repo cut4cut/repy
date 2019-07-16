@@ -1,0 +1,6 @@
+{
+	"message" : "http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message",
+	"structure" : "http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure",
+	"common" : "http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common",
+	"schemaLocation" : "http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/schemas/SDMXMessage.xsd"
+}
